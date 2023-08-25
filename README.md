@@ -4,5 +4,6 @@
 
 In the resource pack the moss carpet model has been changed. It looks more beautiful now.
 
-![1](https://github.com/ZeusBlockTuber/bettermoss/assets/68651897/67eecbe5-794f-44d9-9982-d232aade0d71)
+![f37356cf6def7178ef1795852162c1a2e8cdc961](https://github.com/ZeusBlockTuber/better-moss/assets/68651897/28b2a93f-1684-4cb2-a40d-98c91a3a8def)
+
 (In minecraft)
